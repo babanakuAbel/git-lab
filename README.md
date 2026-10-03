@@ -1,1 +1,1 @@
-I am leanring Git and Professional software development
+I am learning Git and professional software development.
